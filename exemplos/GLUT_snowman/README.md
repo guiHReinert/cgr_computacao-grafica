@@ -7,7 +7,6 @@ gcc exemplos/GLUT_snowman/snowman_glut.c -lglut -lGL -lGLU -lm -o exemplos/GLUT_
 ./exemplos/GLUT_snowman/snowman
 ```
 
-
 ---
 
 São criadas respectivamente 4 funções principais posteriormente chamadas em `main()`:

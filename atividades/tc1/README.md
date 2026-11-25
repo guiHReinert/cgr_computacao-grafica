@@ -2,6 +2,14 @@
 
 **Aluno**: Guilherme H. Reinert
 
+## Compilação
+
+```c
+make        # compila
+make run    # compila e executa
+make clean  # apaga a saida binaria
+```
+
 ## Enunciado
 
 Escolha uma das opções abaixo:
