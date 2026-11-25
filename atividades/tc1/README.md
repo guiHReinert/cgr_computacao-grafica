@@ -4,7 +4,7 @@
 
 ## Compilação
 
-```c
+```bash
 make        # compila
 make run    # compila e executa
 make clean  # apaga a saida binaria
